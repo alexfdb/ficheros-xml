@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<empleados>
+    <empleado>
+        <id>1</id>
+        <nombre>Alex</nombre>
+        <salario>2000.0</salario>
+    </empleado>
+</empleados>
