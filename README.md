@@ -28,7 +28,7 @@ true
 
 public class OperationsXML {
 
-    static String path = "src\\main\\resources\\empleados.xml";
+    static String path = "xml/src/main/resources/empleados.xml";
 
         public Set<Empleado> readXML() {
         Set<Empleado> empleados = new HashSet<>();
